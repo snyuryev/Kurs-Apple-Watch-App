@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9DEC1348-223F-46E9-982E-00DFF56AC59A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>kurs</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>89F12F7D69DE7D262CFDEDCF2FCDC5EB5C5FD2DF</key>
+		<string>https://github.com/snyuryev/Kurs-Apple-Watch-App.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>kurs/kurs.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>89F12F7D69DE7D262CFDEDCF2FCDC5EB5C5FD2DF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/snyuryev/Kurs-Apple-Watch-App.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>89F12F7D69DE7D262CFDEDCF2FCDC5EB5C5FD2DF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>89F12F7D69DE7D262CFDEDCF2FCDC5EB5C5FD2DF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Kurs-Apple-Watch-App</string>
+		</dict>
+	</array>
+</dict>
+</plist>

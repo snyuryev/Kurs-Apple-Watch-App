@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>ExchangeRateKit.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>kurs WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>kurs.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>8B1771151A66851C00A7951A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8B17712A1A66851D00A7951A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8B5AA8191A7A08E500145415</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8B6A9EE21A7BAD5700A76C22</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8B6A9F061A7BADE000A76C22</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8B8B08D11A7B650600D7DFB6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8B8B08DB1A7B650700D7DFB6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
